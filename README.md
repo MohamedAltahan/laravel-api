@@ -1,9 +1,5 @@
 ## API COURSE (Project Files)
 
-<img src="https://img-b.udemycdn.com/course/750x422/5201852_fbea_3.jpg">
-
-**Created By :** Mahmoud Anwar
-**Email :** Engsahaly@gmail.com
 
 This is the main readme file for the Project files used in the API Course on Udemy
 
