@@ -7,9 +7,8 @@ This is the main readme file for the Project files used in the API Course on Ude
 
 To get started, clone this repository.
 
-```
 git clone https://github.com/engsahaly/API-COURSE.git
-```
+
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
 
